@@ -11,7 +11,7 @@ export default function Home() {
         playsInline
         className="absolute inset-0 h-full w-full object-cover opacity-60"
       >
-        <source src="/waves2.mp4" type="video/mp4" />
+        <source src="/waves3.mp4" type="video/mp4" />
       </video>
 
       {/* Dark overlay for readability */}
