@@ -45,10 +45,12 @@ export default function Home() {
         <p className="text-sm font-light text-zinc-600">
           Get in touch&nbsp;&mdash;&nbsp;
           <a
-            href="mailto:hello@example.com"
+            href="https://t.me/kojoforex"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-[#bfdbfe] transition-colors hover:text-white"
           >
-            kojoforex@gmail.com
+            @kojoforex
           </a>
         </p>
       </main>
