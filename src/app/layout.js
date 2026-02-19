@@ -16,6 +16,15 @@ const outfit = Outfit({
 export const metadata = {
   title: "Coming Soon",
   description: "Something new is on the way.",
+  icons: {
+    icon: [
+      { url: "/kojologo1.png", sizes: "32x32", type: "image/png" },
+      { url: "/kojologo1.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: [
+      { url: "/kojologo1.png", sizes: "180x180", type: "image/png" },
+    ],
+  }
 };
 
 export default function RootLayout({ children }) {
